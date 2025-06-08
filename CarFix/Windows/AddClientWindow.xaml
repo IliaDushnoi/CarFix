@@ -1,0 +1,53 @@
+﻿<Window x:Class="CarFix.Windows.AddClientWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CarFix.Windows"
+        mc:Ignorable="d"
+        Title="Добавить/Редактировать клиента" MinHeight="400" MaxHeight="400" Height="400" MinWidth="600" MaxWidth="600" Width="600">
+    <Window.Resources>
+        <Style x:Key="TransparentButtonStyle" TargetType="Button">
+            <Setter Property="FontFamily" Value="Arial"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="FontWeight" Value="Regular"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Background" Value="#d4eafffd"/>
+            <Setter Property="Foreground" Value="#071C71"/>
+        </Style>
+        <Style x:Key="HeaderTextBlockStyle" TargetType="TextBlock">
+            <Setter Property="FontSize" Value="25"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="Foreground" Value="#071C71"/>
+            <Setter Property="FontWeight" Value="DemiBold"/>
+        </Style>
+        <Style x:Key="LabelStyle" TargetType="Label">
+            <Setter Property="Margin" Value="30 10 30 0"/>
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Foreground" Value="#071C71"/>
+        </Style>
+        <Style x:Key="TextBoxStyle" TargetType="TextBox">
+            <Setter Property="Margin" Value="30 0 30 0"/>
+            <Setter Property="Width" Value="520"/>
+            <Setter Property="HorizontalAlignment" Value="Left"/>
+            <Setter Property="Height" Value="25"/>
+        </Style>
+    </Window.Resources>
+    <Grid Background="#d4eafffd">
+        <StackPanel Orientation="Vertical">
+            <TextBlock Text="Данные о клиенте" Style="{StaticResource HeaderTextBlockStyle}"/>
+            <Label Content="ФИО клиента" Style="{StaticResource LabelStyle}" />
+            <TextBox Name="tbFullNameClient" Style="{StaticResource TextBoxStyle}"/>
+            <Label Content="Номер телефона" Style="{StaticResource LabelStyle}"/>
+            <TextBox Name="tbPhoneNumberClient" Style="{StaticResource TextBoxStyle}"/>
+            <Label Content="Электронная почта" Style="{StaticResource LabelStyle}"/>
+            <TextBox Name="tbEmailClient" Style="{StaticResource TextBoxStyle}"/>
+            <Label Content="VIN номер автомобиля" Style="{StaticResource LabelStyle}"/>
+            <TextBox Name="tbVinClient"  Style="{StaticResource TextBoxStyle}"/>
+            <StackPanel Orientation="Horizontal" Margin="0 25 0 0">
+                <Button Name="btnSaveClient" Click="btnSaveClient_Click" Content="Сохранить" Width="120" Height="35"  Margin="30 0 0 0" Style="{StaticResource TransparentButtonStyle}"/>
+                <Button Name="btnCancel" Click="btnCancel_Click" Content="Отменить" Width="120" Height="35"  Margin="280 0 0 0" Style="{StaticResource TransparentButtonStyle}"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
