@@ -93,7 +93,7 @@ namespace CarFix.Windows
 
             OwnerPage?.RefreshPartData();
 
-            MessageBox.Show("Данные клиента успешно добавлены/изменены!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+            MessageBox.Show("Данные успешно добавлены/изменены!", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
         }
 
         private void btnCancel_Click(object sender, RoutedEventArgs e)

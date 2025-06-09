@@ -23,6 +23,10 @@ namespace CarFix
         public MainWindow()
         {
             InitializeComponent();
+            MessageBox.Show("Программа успешно запущена!\nПеред работай обязательно загрузите данные.",
+                "Запуск",
+                MessageBoxButton.OK,
+                MessageBoxImage.Information);
         }
 
 

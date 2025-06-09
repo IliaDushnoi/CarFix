@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CarFix.Windows"
         mc:Ignorable="d"
-        Title="AddEditPartWindow" Height="450" Width="600">
+        Title="Добавить/изменить запчасти" Height="450" Width="600">
     <Window.Resources>
         <Style x:Key="TransparentButtonStyle" TargetType="Button">
             <Setter Property="FontFamily" Value="Arial"/>
