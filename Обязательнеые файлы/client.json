@@ -1,0 +1,178 @@
+[
+  {
+    "ID": 1,
+    "FullName": "\u0418\u0432\u0430\u043D\u043E\u0432 \u0418\u0432\u0430\u043D \u0418\u0432\u0430\u043D\u043E\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79024651234",
+    "Email": "ivanov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8017568+05:00",
+    "CarVIN": "XTA21099912345678"
+  },
+  {
+    "ID": 2,
+    "FullName": "\u041F\u0435\u0442\u0440\u043E\u0432 \u041F\u0435\u0442\u0440 \u041F\u0435\u0442\u0440\u043E\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79135551234",
+    "Email": "petrov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "KNAFB121A56789012"
+  },
+  {
+    "ID": 3,
+    "FullName": "\u0421\u0438\u0434\u043E\u0440\u043E\u0432\u0430 \u0410\u043D\u043D\u0430 \u041C\u0438\u0445\u0430\u0439\u043B\u043E\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79264441234",
+    "Email": "sidorova@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "Z94CB41EAVR789012"
+  },
+  {
+    "ID": 4,
+    "FullName": "\u041A\u0443\u0437\u043D\u0435\u0446\u043E\u0432 \u0414\u043C\u0438\u0442\u0440\u0438\u0439 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79037771234",
+    "Email": "kuznetsov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "JT2BF22K604567890"
+  },
+  {
+    "ID": 5,
+    "FullName": "\u0421\u043C\u0438\u0440\u043D\u043E\u0432\u0430 \u0415\u043A\u0430\u0442\u0435\u0440\u0438\u043D\u0430 \u0410\u043D\u0434\u0440\u0435\u0435\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79168881234",
+    "Email": "smirnova@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "WVWZZZ6RZGY123456"
+  },
+  {
+    "ID": 6,
+    "FullName": "\u0424\u0435\u0434\u043E\u0440\u043E\u0432 \u0410\u043B\u0435\u043A\u0441\u0435\u0439 \u0412\u043B\u0430\u0434\u0438\u043C\u0438\u0440\u043E\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79291111234",
+    "Email": "fedorov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "TMBJG9NE3K0123456"
+  },
+  {
+    "ID": 7,
+    "FullName": "\u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0430 \u041E\u043B\u044C\u0433\u0430 \u0418\u0433\u043E\u0440\u0435\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79012221234",
+    "Email": "nikolaeva@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "WBAFR7C57DC789012"
+  },
+  {
+    "ID": 8,
+    "FullName": "\u0412\u043E\u043B\u043A\u043E\u0432 \u0410\u0440\u0442\u0435\u043C \u0421\u0442\u0430\u043D\u0438\u0441\u043B\u0430\u0432\u043E\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79143331234",
+    "Email": "volkov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "WDD2050471F345678"
+  },
+  {
+    "ID": 9,
+    "FullName": "\u0411\u0435\u043B\u043E\u0432\u0430 \u041C\u0430\u0440\u0438\u043D\u0430 \u0412\u0438\u043A\u0442\u043E\u0440\u043E\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79275551234",
+    "Email": "belova@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "WAUZZZ8K5GA123456"
+  },
+  {
+    "ID": 10,
+    "FullName": "\u0413\u0440\u0438\u0433\u043E\u0440\u044C\u0435\u0432 \u041F\u0430\u0432\u0435\u043B \u041E\u043B\u0435\u0433\u043E\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79086661234",
+    "Email": "grigoriev@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "SJNFAAJ11U2345678"
+  },
+  {
+    "ID": 11,
+    "FullName": "\u0414\u043C\u0438\u0442\u0440\u0438\u0435\u0432\u0430 \u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F \u0420\u043E\u043C\u0430\u043D\u043E\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79117771234",
+    "Email": "dmitrieva@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "VF1LJ0B0E45678901"
+  },
+  {
+    "ID": 12,
+    "FullName": "\u0421\u043E\u043A\u043E\u043B\u043E\u0432 \u0418\u0433\u043E\u0440\u044C \u0414\u0435\u043D\u0438\u0441\u043E\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79248881234",
+    "Email": "sokolov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "WF0FXXGCDP5678901"
+  },
+  {
+    "ID": 13,
+    "FullName": "\u041C\u0438\u0445\u0430\u0439\u043B\u043E\u0432 \u0421\u0435\u0440\u0433\u0435\u0439 \u0412\u0430\u0441\u0438\u043B\u044C\u0435\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79059991234",
+    "Email": "mikhailov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "1G1PC5SH3D7123456"
+  },
+  {
+    "ID": 14,
+    "FullName": "\u041F\u0430\u0432\u043B\u043E\u0432\u0430 \u0412\u0438\u043A\u0442\u043E\u0440\u0438\u044F \u0410\u043B\u0435\u043A\u0441\u0430\u043D\u0434\u0440\u043E\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79181111234",
+    "Email": "pavlova@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "JMZGAR15X01234567"
+  },
+  {
+    "ID": 15,
+    "FullName": "\u0410\u043B\u0435\u043A\u0441\u0435\u0435\u0432 \u0410\u043D\u0434\u0440\u0435\u0439 \u041D\u0438\u043A\u043E\u043B\u0430\u0435\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79212221234",
+    "Email": "alekseev@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "2T2BK1BA3GC123456"
+  },
+  {
+    "ID": 16,
+    "FullName": "\u041A\u043E\u0437\u043B\u043E\u0432\u0430 \u0415\u043B\u0435\u043D\u0430 \u0414\u043C\u0438\u0442\u0440\u0438\u0435\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79043331234",
+    "Email": "kozlova@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "YV1LFA0ACJ1234567"
+  },
+  {
+    "ID": 17,
+    "FullName": "\u041B\u0435\u0431\u0435\u0434\u0435\u0432 \u041C\u0430\u043A\u0441\u0438\u043C \u0418\u043B\u044C\u0438\u0447",
+    "PhoneNumber": "\u002B79175551234",
+    "Email": "lebedev@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "JF2SJADC0FH345678"
+  },
+  {
+    "ID": 18,
+    "FullName": "\u0417\u0430\u0439\u0446\u0435\u0432\u0430 \u0422\u0430\u0442\u044C\u044F\u043D\u0430 \u0421\u0435\u0440\u0433\u0435\u0435\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79206661234",
+    "Email": "zaitseva@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "5J6RE4H44BL012345"
+  },
+  {
+    "ID": 19,
+    "FullName": "\u041C\u043E\u0440\u043E\u0437\u043E\u0432 \u0410\u043D\u0442\u043E\u043D \u041F\u0430\u0432\u043B\u043E\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79037771234",
+    "Email": "morozov@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "SALVA2BG4GH678901"
+  },
+  {
+    "ID": 20,
+    "FullName": "\u041E\u0440\u043B\u043E\u0432\u0430 \u0414\u0430\u0440\u044C\u044F \u041A\u0438\u0440\u0438\u043B\u043B\u043E\u0432\u043D\u0430",
+    "PhoneNumber": "\u002B79168881234",
+    "Email": "orlova@mail.ru",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "WP1AG2925FL123456"
+  },
+  {
+    "ID": 21,
+    "FullName": "\u0421\u043B\u0430\u0431\u043E\u0436\u0430\u043D\u0438\u043D \u0418\u043B\u044C\u044F \u0414\u043C\u0438\u0442\u0440\u0438\u0435\u0432\u0438\u0447",
+    "PhoneNumber": "\u002B79033936401",
+    "Email": "slabozaniniila@gmail.com",
+    "RegistrationDate": "2025-06-09T17:14:42.8037557+05:00",
+    "CarVIN": "NXT54R93N39284T4V"
+  },
+  {
+    "ID": 22,
+    "FullName": "123",
+    "PhoneNumber": "123",
+    "Email": "123123",
+    "RegistrationDate": "2025-06-09T17:15:17.9420073+05:00",
+    "CarVIN": "12345678901234567"
+  }
+]

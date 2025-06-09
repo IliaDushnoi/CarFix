@@ -1,0 +1,170 @@
+[
+  {
+    "Id": 1,
+    "Brand": "Lada",
+    "Model": "Largus",
+    "Year": "2010",
+    "Vin": "XTA21099912345678",
+    "Mileage": "23990"
+  },
+  {
+    "Id": 2,
+    "Brand": "Kia",
+    "Model": "Rio",
+    "Year": "2015",
+    "Vin": "KNAFB121A56789012",
+    "Mileage": "34990"
+  },
+  {
+    "Id": 3,
+    "Brand": "Hyundai",
+    "Model": "Solaris",
+    "Year": "2017",
+    "Vin": "Z94CB41EAVR789012",
+    "Mileage": "38990"
+  },
+  {
+    "Id": 4,
+    "Brand": "Toyota",
+    "Model": "Camry",
+    "Year": "2018",
+    "Vin": "JT2BF22K604567890",
+    "Mileage": "54990"
+  },
+  {
+    "Id": 5,
+    "Brand": "Volkswagen",
+    "Model": "Polo",
+    "Year": "2016",
+    "Vin": "WVWZZZ6RZGY123456",
+    "Mileage": "31990"
+  },
+  {
+    "Id": 6,
+    "Brand": "Skoda",
+    "Model": "Octavia",
+    "Year": "2019",
+    "Vin": "TMBJG9NE3K0123456",
+    "Mileage": "45990"
+  },
+  {
+    "Id": 7,
+    "Brand": "BMW",
+    "Model": "X5",
+    "Year": "2015",
+    "Vin": "WBAFR7C57DC789012",
+    "Mileage": "89990"
+  },
+  {
+    "Id": 8,
+    "Brand": "Mercedes-Benz",
+    "Model": "C-Class",
+    "Year": "2017",
+    "Vin": "WDD2050471F345678",
+    "Mileage": "69990"
+  },
+  {
+    "Id": 9,
+    "Brand": "Audi",
+    "Model": "A4",
+    "Year": "2016",
+    "Vin": "WAUZZZ8K5GA123456",
+    "Mileage": "58990"
+  },
+  {
+    "Id": 10,
+    "Brand": "Nissan",
+    "Model": "Qashqai",
+    "Year": "2018",
+    "Vin": "SJNFAAJ11U2345678",
+    "Mileage": "47990"
+  },
+  {
+    "Id": 11,
+    "Brand": "Renault",
+    "Model": "Duster",
+    "Year": "2014",
+    "Vin": "VF1LJ0B0E45678901",
+    "Mileage": "28990"
+  },
+  {
+    "Id": 12,
+    "Brand": "Ford",
+    "Model": "Focus",
+    "Year": "2015",
+    "Vin": "WF0FXXGCDP5678901",
+    "Mileage": "32990"
+  },
+  {
+    "Id": 13,
+    "Brand": "Chevrolet",
+    "Model": "Cruze",
+    "Year": "2013",
+    "Vin": "1G1PC5SH3D7123456",
+    "Mileage": "26990"
+  },
+  {
+    "Id": 14,
+    "Brand": "Mazda",
+    "Model": "CX-5",
+    "Year": "2017",
+    "Vin": "JMZGAR15X01234567",
+    "Mileage": "42990"
+  },
+  {
+    "Id": 15,
+    "Brand": "Lexus",
+    "Model": "RX 350",
+    "Year": "2016",
+    "Vin": "2T2BK1BA3GC123456",
+    "Mileage": "75990"
+  },
+  {
+    "Id": 16,
+    "Brand": "Volvo",
+    "Model": "XC60",
+    "Year": "2018",
+    "Vin": "YV1LFA0ACJ1234567",
+    "Mileage": "64990"
+  },
+  {
+    "Id": 17,
+    "Brand": "Subaru",
+    "Model": "Forester",
+    "Year": "2015",
+    "Vin": "JF2SJADC0FH345678",
+    "Mileage": "39990"
+  },
+  {
+    "Id": 18,
+    "Brand": "Honda",
+    "Model": "CR-V",
+    "Year": "2017",
+    "Vin": "5J6RE4H44BL012345",
+    "Mileage": "48990"
+  },
+  {
+    "Id": 19,
+    "Brand": "Land Rover",
+    "Model": "Range Rover Evoque",
+    "Year": "2016",
+    "Vin": "SALVA2BG4GH678901",
+    "Mileage": "79990"
+  },
+  {
+    "Id": 20,
+    "Brand": "Porsche",
+    "Model": "Cayenne",
+    "Year": "2015",
+    "Vin": "WP1AG2925FL123456",
+    "Mileage": "109990"
+  },
+  {
+    "Id": 21,
+    "Brand": "Lada",
+    "Model": "2110",
+    "Year": "2006",
+    "Vin": "NXT54R93N39284T4V",
+    "Mileage": "48381"
+  }
+]
